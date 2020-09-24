@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+    
+
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <h1>Welcome to Attender registration! </h1>
+    <h3>Please enter your credentials below</h3>
+    <br />
+
+    <form id="target" name="Form">
+        <h2>PassportId:</h2>
+        <input id="Passport" type="text" />
+        
+        <h2>Mac address:</h2>
+        <input id="Mac" type="text" pattern="^[0-9a-fA-F]{2}(((:[0-9a-fA-F]{2}){5})|((-[0-9a-fA-F]{2}){5}))$"/>
+        
+        <h2>Password:</h2>
+        <input id="Password" type="text"/>
+
+        <br />
+        <br />
+        <br />
+        <input type="button" value="Submit" onclick="Register()"/>
+    </form>
+</body>
+</html>

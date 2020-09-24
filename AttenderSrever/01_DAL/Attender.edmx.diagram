@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a0583db8160c495691c51d578017ac1d" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="AttenderModel.Course" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.Department" Width="1.5" PointX="6" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.LessonAttending" Width="1.5" PointX="8.5" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.LessonTime" Width="1.5" PointX="5.25" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.Member" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.University" Width="1.5" PointX="3.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.CourseStudent" Width="1.5" PointX="8.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AttenderModel.MemberRole" Width="1.5" PointX="6" PointY="3.125" IsExpanded="true" />
+        <AssociationConnector Association="AttenderModel.FK_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Course_Date" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Department_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Lecture_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Department_Manager" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Department_University" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Course_Attend" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Student_Attend" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK__MemberRol__Membe__3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="AttenderModel.FK__MemberRol__Unive__3B75D760" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

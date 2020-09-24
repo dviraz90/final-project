@@ -1,0 +1,44 @@
+F:\Documents\Project\Network\ad-hoc\Virtual Router\Current\VirtualRouter\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Network\ad-hoc\Virtual Router\Current\VirtualRouter\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+F:\Documents\Project\Network\ad-hoc\Virtual Router\Current\VirtualRouter\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+F:\Documents\Project\Network\ad-hoc\Virtual Router\Current\VirtualRouter\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Network\ad-hoc\Virtual Router\Current\VirtualRouter\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+E:\Downloads\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+E:\Downloads\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+E:\Downloads\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+E:\Downloads\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+E:\Downloads\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+F:\Documents\Project\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+F:\Documents\Project\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+F:\Documents\Project\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+F:\Documents\Project\Network\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Network\Virtual wifi\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+F:\Documents\Project\Network\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+F:\Documents\Project\Network\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+F:\Documents\Project\Network\Virtual wifi\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\Nechama\Desktop\Virtual-Wifi-master\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\Nechama\Desktop\Virtual-Wifi-master\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\Nechama\Desktop\Virtual-Wifi-master\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+C:\Users\Nechama\Desktop\Virtual-Wifi-master\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\Nechama\Desktop\Virtual-Wifi-master\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\דביר\project\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\דביר\project\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\דביר\project\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\project\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\דביר\project\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\דביר\project\Attender\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\דביר\project\Attender\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\דביר\project\Attender\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\דביר\project\Attender\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb

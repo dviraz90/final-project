@@ -1,0 +1,17 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\obj\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.pdb

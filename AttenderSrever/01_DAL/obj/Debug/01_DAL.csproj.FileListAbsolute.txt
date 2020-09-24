@@ -1,0 +1,19 @@
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.dll.config
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\obj\Debug\01_DAL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\01_DAL\obj\Debug\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.dll.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\obj\Debug\01_DAL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\obj\Debug\01_DAL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\01_DAL\obj\Debug\01_DAL.pdb

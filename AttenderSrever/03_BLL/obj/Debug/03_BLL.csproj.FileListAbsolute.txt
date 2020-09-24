@@ -1,0 +1,70 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Debug\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\03_BLL\obj\Debug\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.pdb

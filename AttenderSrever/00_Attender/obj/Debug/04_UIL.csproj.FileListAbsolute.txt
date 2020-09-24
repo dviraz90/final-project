@@ -1,0 +1,310 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\csc.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\vbc.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\00_Attender.dll.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\00_Attender.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\00_Attender.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Web.Http.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Web.Http.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\bin\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\obj\Debug\00_Attender.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\00_Attender\obj\Debug\00_Attender.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\csc.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\vbc.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\00_Attender.dll.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\00_Attender.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\00_Attender.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Owin.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Cors.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Http.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Razor.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\WebGrease.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Razor.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Http.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\csc.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\vbc.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\00_Attender.dll.config
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\00_Attender.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\00_Attender.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\02_BOL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\03_BLL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\EntityFramework.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Owin.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Cors.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Http.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Razor.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\WebGrease.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\01_DAL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\02_BOL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\03_BLL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\EntityFramework.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Razor.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Http.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\bin\01_DAL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\csc.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\vbc.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\00_Attender.dll.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\00_Attender.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\00_Attender.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\02_BOL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\03_BLL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Owin.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Cors.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Http.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Razor.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\WebGrease.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\01_DAL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Antlr3.Runtime.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Cors.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\Newtonsoft.Json.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Helpers.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Mvc.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Optimization.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Razor.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Deployment.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.WebPages.Razor.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Net.Http.Formatting.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Http.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\System.Web.Http.WebHost.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\bin\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\00_Attender\obj\Debug\00_Attender.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\csc.exe
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\vbc.exe
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\VBCSCompiler.exe
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\00_Attender.dll.config
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\00_Attender.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\00_Attender.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\02_BOL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\03_BLL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Antlr3.Runtime.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Cors.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Security.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Newtonsoft.Json.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Owin.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Net.Http.Formatting.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Cors.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Helpers.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Http.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Http.WebHost.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Mvc.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Optimization.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Razor.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.Deployment.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.Razor.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\WebGrease.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\01_DAL.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Antlr3.Runtime.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Cors.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Security.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\Newtonsoft.Json.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Helpers.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Mvc.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Optimization.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Razor.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.Deployment.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.WebPages.Razor.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Net.Http.Formatting.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Http.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\System.Web.Http.WebHost.xml
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\bin\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\obj\Debug\04_UIL.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\obj\Debug\00_Attender.dll
+C:\Users\בני עצמי\Desktop\AttenderSrever\00_Attender\obj\Debug\00_Attender.pdb
