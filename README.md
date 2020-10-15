@@ -1,1 +1,2 @@
-The new way to check attendance
+
+# Attender - The new way to check attendance.
