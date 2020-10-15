@@ -234,3 +234,30 @@ C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRoute
 C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
 C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
 C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache

@@ -26,6 +26,7 @@ namespace AttenderDesktopApp
             HttpResponseMessage responseName = await clientName.GetAsync("http://localhost:43719/api/member/GetName/Mail/" + Mail + "/Password/" + Password);
             string stringName = await responseName.Content.ReadAsStringAsync();
             string Name = stringName;
+            Name = Name.Substring(1, Name.Length - 2);
             Welcome += $" {Name} ";
 
             MainPage fw = new MainPage(Welcome, Mail, Password, Token, extime);
@@ -40,6 +41,7 @@ namespace AttenderDesktopApp
             string stringName = await responseName.Content.ReadAsStringAsync();
 
             string Name = stringName;
+            Name = Name.Substring(1, Name.Length - 2);
             Welcome += $" {Name} ";
             admin ad = new admin(Welcome, Mail, Password, Token, extime);
             this.Hide();

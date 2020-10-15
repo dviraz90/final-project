@@ -4,8 +4,6 @@
     var Password = document.getElementById("Password");
     var Mac = document.getElementById("Mac");
 
-    //alert(Mac.value + Password.value + Mac.value)
-
     var idata = {};
     idata.passport = Passport.value;
     idata.password = Password.value;

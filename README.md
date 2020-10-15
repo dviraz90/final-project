@@ -1,1 +1,1 @@
-# attenderApp
+The new way to check attendance

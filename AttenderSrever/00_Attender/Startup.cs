@@ -11,7 +11,7 @@ namespace _00_Attender
 {
     public class Startup
     {
-        public int LifeToken = 5;
+        public int LifeToken = 20;
         public void Configuration(IAppBuilder app)
         {
             app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);

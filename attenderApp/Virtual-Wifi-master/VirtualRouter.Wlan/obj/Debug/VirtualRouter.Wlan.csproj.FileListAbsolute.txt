@@ -42,3 +42,8 @@ C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouter.Wlan\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouter.Wlan\obj\Debug\VirtualRouter.Wlan.pdb

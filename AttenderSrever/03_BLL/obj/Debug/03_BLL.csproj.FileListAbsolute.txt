@@ -68,3 +68,17 @@ C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\bin\Debug\EntityFramework
 C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
 C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.dll
 C:\Users\בני עצמי\Desktop\AttenderSrever\03_BLL\obj\Debug\03_BLL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\03_BLL.dll.config
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\03_BLL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\03_BLL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\01_DAL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\01_DAL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\obj\Debug\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\obj\Debug\03_BLL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\03_BLL\obj\Debug\03_BLL.pdb

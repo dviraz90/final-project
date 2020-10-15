@@ -19,7 +19,7 @@ namespace _02_BOL.Validations
         public override bool IsValid(object value)
         {
             string macAddress = value.ToString();
-            string pattern = @"^[0-9a-fA-F]{2}(((:[0-9a-fA-F]{2}){5})|((-[0-9a-fA-F]{2}){5}))$";
+            string pattern = @"^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$";
             Match match = Regex.Match(macAddress, pattern);
             if (match.Success) return true;
             return false;

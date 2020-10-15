@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Text.RegularExpressions;
 using System.Web.Http;
 
 namespace _00_Attender.Controllers
@@ -26,8 +27,16 @@ namespace _00_Attender.Controllers
         [Route("submit")]
         public bool Submit([FromBody] person data)
         {
-            bool success = memberBll.CheckRegistration(data.passport, data.password, data.mac);
-            return success;
+            string macAddress = data.mac;
+            string pattern = @"^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$";
+            Match match = Regex.Match(macAddress, pattern);
+            if (match.Success)
+            {
+                bool success = memberBll.CheckRegistration(data.passport, data.password, data.mac);
+                return success;
+            }
+            return false;
+                
         }
 
         [HttpGet]

@@ -109,3 +109,15 @@ C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouterH
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.csproj.ResolveComReference.cache
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.dll
 C:\Users\בני עצמי\Desktop\AttenderApp2\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouterHost.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouterHost.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\Interop.NETCONLib.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\Interop.NETCONLib.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.csproj.ResolveComReference.cache
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\Virtual-Wifi-master\VirtualRouterHost\obj\Debug\VirtualRouterHost.pdb

@@ -15,3 +15,8 @@ C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Atten
 C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.csprojResolveAssemblyReference.cache
 C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.dll
 C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\02_BOL\obj\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\02_BOL\bin\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\02_BOL\bin\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\02_BOL\obj\Debug\02_BOL.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\02_BOL\obj\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\attenderApp\AttenderSrever\02_BOL\obj\Debug\02_BOL.pdb
