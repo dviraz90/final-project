@@ -120,6 +120,7 @@ namespace AttenderDesktopApp
                                  requestContent2);
                                 loadStudents();
                                 loadLecturers();
+                                MessageBox.Show("Added successfully.");
                             }
                         }
                     }
@@ -410,6 +411,7 @@ namespace AttenderDesktopApp
         private void AddCourse_Click(object sender, EventArgs e)
         {
             AddCourse ac = new AddCourse(Hello, Mail, Password, Token, extime);
+            this.Hide();
             ac.ShowDialog();
         }
     }

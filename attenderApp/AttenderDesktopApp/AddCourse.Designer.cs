@@ -50,6 +50,7 @@
             this.AddCurses = new System.Windows.Forms.TabControl();
             this.AddACourse = new System.Windows.Forms.TabPage();
             this.AddCourseTime = new System.Windows.Forms.TabPage();
+            this.BackToAdmin = new System.Windows.Forms.Button();
             this.AddCurses.SuspendLayout();
             this.AddACourse.SuspendLayout();
             this.AddCourseTime.SuspendLayout();
@@ -275,11 +276,23 @@
             this.AddCourseTime.Text = "add a course time";
             this.AddCourseTime.UseVisualStyleBackColor = true;
             // 
+            // BackToAdmin
+            // 
+            this.BackToAdmin.BackColor = System.Drawing.Color.DimGray;
+            this.BackToAdmin.Location = new System.Drawing.Point(448, 36);
+            this.BackToAdmin.Name = "BackToAdmin";
+            this.BackToAdmin.Size = new System.Drawing.Size(88, 37);
+            this.BackToAdmin.TabIndex = 35;
+            this.BackToAdmin.Text = "Back To Admin";
+            this.BackToAdmin.UseVisualStyleBackColor = false;
+            this.BackToAdmin.Click += new System.EventHandler(this.BackToAdmin_Click);
+            // 
             // AddCourse
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(433, 335);
+            this.ClientSize = new System.Drawing.Size(548, 335);
+            this.Controls.Add(this.BackToAdmin);
             this.Controls.Add(this.AddCurses);
             this.Name = "AddCourse";
             this.Text = "Add a Course";
@@ -317,5 +330,6 @@
         private System.Windows.Forms.TabControl AddCurses;
         private System.Windows.Forms.TabPage AddACourse;
         private System.Windows.Forms.TabPage AddCourseTime;
+        private System.Windows.Forms.Button BackToAdmin;
     }
 }

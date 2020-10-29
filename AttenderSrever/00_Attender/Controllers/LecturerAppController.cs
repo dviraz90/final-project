@@ -17,7 +17,7 @@ namespace _00_Attender.Controllers
 
         [HttpGet]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,s,l,h")]
+        //[Authorize(Roles = "a,s,l,h")]
         [Route("id/{id}")]
         public IHttpActionResult Get([FromUri]int id)
         {

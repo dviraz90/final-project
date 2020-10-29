@@ -228,5 +228,12 @@ namespace AttenderDesktopApp
 
             return (TimeSpan.Compare(TimeSpan.Parse(extimeperiod), TimeSpan.Parse(hour)));
         }
+
+        private void BackToAdmin_Click(object sender, EventArgs e)
+        {
+            admin adm = new admin(Hello, Mail, Password, Token, extime);
+            this.Hide();
+            adm.ShowDialog();
+        }
     }
 }

@@ -23,7 +23,7 @@ namespace Attender.Controllers
 
         [HttpGet]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,l,h")]
+        //[Authorize(Roles = "a,l,h")]
         [Route("all")]
         public List<MemberModel> Get()
         {
@@ -32,7 +32,7 @@ namespace Attender.Controllers
 
         [HttpGet]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,s,l,h")]
+        //[Authorize(Roles = "a,s,l,h")]
         [Route("id/{id}")]
         public IHttpActionResult Get([FromUri]int id)
         {
@@ -42,7 +42,7 @@ namespace Attender.Controllers
         }
         [HttpPost]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,h")]
+        //[Authorize(Roles = "a,h")]
         [Route("")]
         public IHttpActionResult post([FromBody]MemberModel value)
         {
@@ -61,7 +61,7 @@ namespace Attender.Controllers
 
         [HttpPut]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,s,l,h")]
+        //[Authorize(Roles = "a,s,l,h")]
         [Route("id/{id}")]
         public IHttpActionResult Put([FromUri]int id, [FromBody]MemberModel value)
         {
@@ -76,7 +76,7 @@ namespace Attender.Controllers
 
         [HttpDelete]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,h")]
+        //[Authorize(Roles = "a,h")]
         [Route("id/{id}")]
         public IHttpActionResult Delete([FromUri]int id)
         {
@@ -87,7 +87,7 @@ namespace Attender.Controllers
         }
         [HttpPost]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,h")]
+        //[Authorize(Roles = "a,h")]
         [Route("mail")]
 
         public void Mail()
@@ -97,7 +97,7 @@ namespace Attender.Controllers
 
         [HttpPost]
         [MemberAuthFilter]
-        [Authorize(Roles = "a,h")]
+        //[Authorize(Roles = "a,h")]
         [Route("mail/passport/{passport}")]
 
         public void MailbyId([FromUri]string passport)
