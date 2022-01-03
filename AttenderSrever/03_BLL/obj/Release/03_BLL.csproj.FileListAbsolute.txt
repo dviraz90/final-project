@@ -1,0 +1,14 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\03_BLL.dll.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Release\03_BLL.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Release\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\03_BLL\obj\Release\03_BLL.pdb

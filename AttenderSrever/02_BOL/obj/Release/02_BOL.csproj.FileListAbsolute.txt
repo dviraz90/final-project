@@ -1,0 +1,4 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\bin\Release\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\bin\Release\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\obj\Release\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\New_Attender\00_Attender\02_BOL\obj\Release\02_BOL.pdb

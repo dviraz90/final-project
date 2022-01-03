@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AttenderModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Code" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="LectureId" Type="int" Nullable="false" />
+    <Property Name="DepartmentId" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Attender.dbo.CourseStudents' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="CourseStudents">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentId" Type="int" Nullable="false" />
+    <Property Name="CourseId" Type="int" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DepartmentManager" Type="int" />
+    <Property Name="UniversityId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LessonAttending">
+    <Key>
+      <PropertyRef Name="LessonId" />
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LessonId" Type="int" Nullable="false" />
+    <Property Name="StudentId" Type="int" Nullable="false" />
+    <Property Name="CheckTimeStart" Type="time" Precision="6" Nullable="false" />
+    <Property Name="CheckTimeEnd" Type="time" Precision="6" />
+  </EntityType>
+  <EntityType Name="LessonTime">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CourseId" Type="int" Nullable="false" />
+    <Property Name="LessonDate" Type="date" Nullable="false" />
+    <Property Name="StartTime" Type="time" Precision="6" Nullable="false" />
+    <Property Name="EndTime" Type="time" Precision="6" Nullable="false" />
+    <Property Name="ActualStartTime" Type="time" Precision="6" />
+    <Property Name="ClassRoom" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PassportNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nchar" MaxLength="64" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="MacAddress" Type="nchar" MaxLength="17" />
+    <Property Name="Mail" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Attender.dbo.MemberRole' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="MemberRole">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="MemberId" />
+      <PropertyRef Name="UniversityId" />
+      <PropertyRef Name="Role" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MemberId" Type="int" Nullable="false" />
+    <Property Name="UniversityId" Type="int" Nullable="false" />
+    <Property Name="Role" Type="nvarchar" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="University">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Country" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Zip" Type="nchar" MaxLength="10" />
+    <Property Name="Site" Type="nvarchar" MaxLength="50" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK__MemberRol__Membe__3A81B327">
+    <End Role="Member" Type="Self.Member" Multiplicity="1" />
+    <End Role="MemberRole" Type="Self.MemberRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MemberRole">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__MemberRol__Unive__3B75D760">
+    <End Role="University" Type="Self.University" Multiplicity="1" />
+    <End Role="MemberRole" Type="Self.MemberRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="University">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MemberRole">
+        <PropertyRef Name="UniversityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Course">
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <End Role="CourseStudents" Type="Self.CourseStudents" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CourseStudents">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Course_Attend">
+    <End Role="LessonTime" Type="Self.LessonTime" Multiplicity="1" />
+    <End Role="LessonAttending" Type="Self.LessonAttending" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LessonTime">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LessonAttending">
+        <PropertyRef Name="LessonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Course_Date">
+    <End Role="Course" Type="Self.Course" Multiplicity="1" />
+    <End Role="LessonTime" Type="Self.LessonTime" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LessonTime">
+        <PropertyRef Name="CourseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Department_Course">
+    <End Role="Department" Type="Self.Department" Multiplicity="1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Department_Manager">
+    <End Role="Member" Type="Self.Member" Multiplicity="0..1" />
+    <End Role="Department" Type="Self.Department" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Department">
+        <PropertyRef Name="DepartmentManager" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Department_University">
+    <End Role="University" Type="Self.University" Multiplicity="1" />
+    <End Role="Department" Type="Self.Department" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="University">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Department">
+        <PropertyRef Name="UniversityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Lecture_Course">
+    <End Role="Member" Type="Self.Member" Multiplicity="1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="LectureId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student">
+    <End Role="Member" Type="Self.Member" Multiplicity="1" />
+    <End Role="CourseStudents" Type="Self.CourseStudents" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CourseStudents">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Student_Attend">
+    <End Role="Member" Type="Self.Member" Multiplicity="1" />
+    <End Role="LessonAttending" Type="Self.LessonAttending" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LessonAttending">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AttenderModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LessonAttending" EntityType="Self.LessonAttending" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LessonTime" EntityType="Self.LessonTime" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Member" EntityType="Self.Member" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="University" EntityType="Self.University" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CourseStudents" EntityType="Self.CourseStudents" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CourseStudents].[Id] AS [Id], 
+    [CourseStudents].[StudentId] AS [StudentId], 
+    [CourseStudents].[CourseId] AS [CourseId]
+    FROM [dbo].[CourseStudents] AS [CourseStudents]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="MemberRole" EntityType="Self.MemberRole" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [MemberRole].[Id] AS [Id], 
+    [MemberRole].[MemberId] AS [MemberId], 
+    [MemberRole].[UniversityId] AS [UniversityId], 
+    [MemberRole].[Role] AS [Role]
+    FROM [dbo].[MemberRole] AS [MemberRole]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__MemberRol__Membe__3A81B327" Association="Self.FK__MemberRol__Membe__3A81B327">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="MemberRole" EntitySet="MemberRole" />
+    </AssociationSet>
+    <AssociationSet Name="FK__MemberRol__Unive__3B75D760" Association="Self.FK__MemberRol__Unive__3B75D760">
+      <End Role="University" EntitySet="University" />
+      <End Role="MemberRole" EntitySet="MemberRole" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Course" Association="Self.FK_Course">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="CourseStudents" EntitySet="CourseStudents" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Course_Attend" Association="Self.FK_Course_Attend">
+      <End Role="LessonTime" EntitySet="LessonTime" />
+      <End Role="LessonAttending" EntitySet="LessonAttending" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Course_Date" Association="Self.FK_Course_Date">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="LessonTime" EntitySet="LessonTime" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Department_Course" Association="Self.FK_Department_Course">
+      <End Role="Department" EntitySet="Department" />
+      <End Role="Course" EntitySet="Course" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Department_Manager" Association="Self.FK_Department_Manager">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="Department" EntitySet="Department" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Department_University" Association="Self.FK_Department_University">
+      <End Role="University" EntitySet="University" />
+      <End Role="Department" EntitySet="Department" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Lecture_Course" Association="Self.FK_Lecture_Course">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="Course" EntitySet="Course" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student" Association="Self.FK_Student">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="CourseStudents" EntitySet="CourseStudents" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_Attend" Association="Self.FK_Student_Attend">
+      <End Role="Member" EntitySet="Member" />
+      <End Role="LessonAttending" EntitySet="LessonAttending" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

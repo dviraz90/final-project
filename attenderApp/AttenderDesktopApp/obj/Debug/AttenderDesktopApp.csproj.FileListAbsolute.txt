@@ -1,0 +1,263 @@
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.dll
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\dviraz\Desktop\dvir\project\Entity Framework\Attender\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.curseDetials.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\csc.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\vbc.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\00_Attender.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Optimization.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Mvc.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Owin.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\WebGrease.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Razor.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Cors.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Antlr3.Runtime.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\00_Attender.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Optimization.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Mvc.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Razor.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\csc.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\vbc.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\00_Attender.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Optimization.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Mvc.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Owin.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\WebGrease.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Razor.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Cors.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Antlr3.Runtime.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\00_Attender.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\02_BOL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\03_BLL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Optimization.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Mvc.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\01_DAL.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.Razor.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.xml
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\בני עצמי\Desktop\דביר\download from github\Attender\00_Attender\AttenderDesktopApp\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp2\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\בני עצמי\Desktop\test2\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\בני עצמי\Desktop\AttenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe.config
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.exe
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\AttenderDesktopApp.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouterHost.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Interop.NETCONLib.dll
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouterHost.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.Wlan.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\bin\Debug\VirtualRouter.ICS.pdb
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.AddCourse.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.admin.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.CourseDetails.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.HeadChoice.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Login.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.MainPage.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.Properties.Resources.resources
+C:\Users\barpi\Desktop\attenderApp\attenderApp\AttenderDesktopApp\obj\Debug\AttenderDesktopApp.csproj.GenerateResource.Cache
